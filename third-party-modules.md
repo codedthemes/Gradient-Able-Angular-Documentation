@@ -52,7 +52,6 @@ description: NPM plugins
     <tr>
       <td style="text-align:left">Jquery Datatable</td>
       <td style="text-align:left">
-        <p></p>
         <ul>
           <li>angular-datatables</li>
           <li>datatables.net</li>

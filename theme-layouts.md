@@ -4,11 +4,15 @@ description: Layout Variants
 
 # Theme Layouts
 
+{% hint style="info" %}
+You can edit this file at **`[ ../src/app/app-config.ts ]`**
+{% endhint %}
+
 ## Main Layouts
 
 {% tabs %}
 {% tab title="Default / Vertical" %}
-* layout: `horizontal`
+* layout:`vertical`
 * subLayout: ' '
 * collapseMenu: `false`
 * layoutType: `menu-light`
@@ -41,13 +45,13 @@ description: Layout Variants
 ## Vertical Layouts
 
 {% tabs %}
-{% tab title="Static Layout" %}
+{% tab title="Static" %}
 * layout: `vertical`
 * navFixedLayout: `false`
 * headerFixedLayout: `false`
 {% endtab %}
 
-{% tab title="Fixed Layout" %}
+{% tab title="Fixed" %}
 * layout: `vertical`
 * navFixedLayout: `true`
 * headerFixedLayout: `true`
@@ -59,7 +63,7 @@ description: Layout Variants
 * headerFixedLayout: `false`
 {% endtab %}
 
-{% tab title="Collapsed Menu" %}
+{% tab title="Collapsed / Mini Menu" %}
 * layout: `vertical`
 * collapseMenu: `true`
 {% endtab %}
@@ -79,14 +83,14 @@ description: Layout Variants
 ## Horizontal Layouts
 
 {% tabs %}
-{% tab title="Horizontal-2" %}
+{% tab title="Horizontal-2 / Box Layout" %}
 * layout: `horizontal`
 * subLayout: `horizontal-2`
 * navFixedLayout: `false`
 * headerFixedLayout: `false`
 {% endtab %}
 
-{% tab title="Horizontal RTL" %}
+{% tab title="RTL Layout" %}
 * layout: `horizontal`
 * subLayout: `horizontal-2`
 * navFixedLayout: `false`

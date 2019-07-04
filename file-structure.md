@@ -1,18 +1,16 @@
 # File Structure
 
-Under the `nextro/`folder you will find the project folder structure.
+Under the `gradient-able/template/skeleton/`folder you will find the project folder structure.
 
 ```text
-nextro-v8.0.3/
+gradient-able/template/skeleton/
 ├── e2e/..
 ├── node_modules/..
 ├── src/
-│   ├── amcharts/..
 │   ├── app/
 │   │   ├── demo/
 │   │   │   ├── app/
 │   │   │   │   ├── gallery/..
-│   │   │   │   ├── inline-chat/..
 │   │   │   │   ├── task/..
 │   │   │   │   ├── todo/..
 │   │   │   ├── dashboard/
