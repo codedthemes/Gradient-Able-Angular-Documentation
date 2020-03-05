@@ -10,7 +10,7 @@ They are configured and hidden so that you can focus on the code.
 {% endhint %}
 
 1. First of all it's required to Install [Node](https://nodejs.org/en/) and npm.
-2. Update latest [angular-cli](https://cli.angular.io/) global package to Angular 8+ with cli 8.x.x
+2. Update latest [angular-cli](https://cli.angular.io/) global package to Angular 9+ with cli 9.0.4
 3. Unzip **gradient-able.zip** file, you will find the `gradient-able/template/skeleton/`project folder. 
 4. Open your favorite console/terminal and navigate to the `gradient-able/template/skeleton`folder and **Install packages**
 

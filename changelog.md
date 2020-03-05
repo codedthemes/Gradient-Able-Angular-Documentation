@@ -6,10 +6,44 @@ description: Developed by Codedthemes
 
 ## v4.0 - Date
 
-* Angular 8+ support
+{% hint style="warning" %}
+**Note**: No changes in HTML version
+{% endhint %}
+
+* Angular 9+ support
 * Clear cut code structure for complete layout.
 * Fix code directory structure
 * Fix scss file structure
+* Udated 'fullcalendar' modules
+
+```
+"fullcalendar": "^3.10.1",
+"@fullcalendar/angular": "^4.4.5-beta",
+"@fullcalendar/core": "^4.4.0",
+"@fullcalendar/daygrid": "^4.4.0",
+"@fullcalendar/interaction": "^4.4.0",
+"@fullcalendar/timegrid": "^4.2.0",
+```
+
+* removed 'angular-6-datatable' module
+
+```text
+"angular-archwizard": "^5.0.0",
+```
+
+* removed 'ng-2-archwizard' and import new third party module 'angular-archwizard'
+
+```text
+"angular-highcharts-chart": "^1.0.2",
+	"highcharts": "^6.2.0"
+```
+
+* updated 'angular-highcharts-chart' and 'highcharts'
+* removed '"ic-datepicker" module
+* removed 'ng2-currency-mask' module
+* updated 'rxjs-compat'
+* removed animation module 'css-animator'.
+* removed 'ng2-validation' and add new third party module 'ngx-custom-validators'
 
 ## v3.2 - 21-08-2018
 
