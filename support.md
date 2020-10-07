@@ -10,7 +10,7 @@ We are trying our best to let the theme run as it should be \(ie. like DEMO SITE
 
 ## Item support policy
 
-Please check item support policy page [https://themeforest.net/page/item/support/policy](https://themeforest.net/page/item_support_policy) to know all about what you can expect from authors who sell supported items.
+Please check item support policy page to know all about what you can expect from authors who sell supported items.
 
 ## Before submitting the ticket.
 
@@ -29,5 +29,5 @@ Please be as specific as possible when starting a new ticket, it really helps us
 
 ## My support has expired. What should I do?
 
-When your support pack has expired, you won't be able to create new tickets anymore. You can purchase support extension in item page. \( more info: [http://themeforest.net/forums/thread/item-support-picking-up-where-we-left-off/176552](http://themeforest.net/forums/thread/item-support-picking-up-where-we-left-off/176552) \)
+When your support pack has expired, you won't be able to create new tickets anymore. You can purchase support extension in item page.
 
