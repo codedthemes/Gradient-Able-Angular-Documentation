@@ -4,7 +4,15 @@ description: Developed by Codedthemes
 
 # Changelog
 
-## v4.0 - Date
+## v4.1 - 23-10-2020
+
+{% hint style="warning" %}
+**Note**: No changes in HTML version
+{% endhint %}
+
+* Angular 10+ support
+
+## v4.0
 
 {% hint style="warning" %}
 **Note**: No changes in HTML version
