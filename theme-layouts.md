@@ -4,6 +4,8 @@ description: Layout Variants
 
 # Theme Layouts
 
+
+
 {% hint style="info" %}
 You can edit this file at **`[ ../src/app/app-config.ts ]`**
 {% endhint %}
