@@ -1,10 +1,10 @@
 ---
-description: Gradient Able- Angular 10+ Bootstrap 4 Admin Dashboard Template
+description: Gradient Able- Angular Bootstrap 4 Admin Dashboard Template
 ---
 
 # Introduction
 
-**Gradient Able** admin template is **Angular 10+ & Bootstrap 4+ Admin Template** which comes with variety feature. Gradient Able is not an ordinary admin panel template - It has lots of pre-define functionality which completely ready for any complex projects!!
+**Gradient Able** admin template is **Angular & Bootstrap Admin Template** which comes with variety feature. Gradient Able is not an ordinary admin panel template - It has lots of pre-define functionality which completely ready for any complex projects!!
 
 **Author** : Codedthemes
 
@@ -22,10 +22,10 @@ description: Gradient Able- Angular 10+ Bootstrap 4 Admin Dashboard Template
 
 ## Specification
 
-* [Angular CLI](https://cli.angular.io/) 10.0.4
-* Latest [Bootstrap](https://getbootstrap.com/) 4 Stable \(v4.3.1\)
+* [Angular CLI](https://cli.angular.io/) 11.0.2
+* Latest [Bootstrap](https://getbootstrap.com/) 4 Stable \(v4.5.0\)
 * [SASS ](https://sass-lang.com)Powered
-* [NodeJs](https://nodejs.org/en/) \(v12.x.x\)
-* [NgBootstrap](https://ng-bootstrap.github.io/#/home) 5.0.0
+* [NodeJs](https://nodejs.org/en/) \(v14.x.x\)
+* [NgBootstrap](https://ng-bootstrap.github.io/#/home) 6.1.0
 * [npmJs ](https://www.npmjs.com/)Third Party Modules 
 

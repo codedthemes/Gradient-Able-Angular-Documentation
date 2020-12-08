@@ -4,6 +4,16 @@ description: Developed by Codedthemes
 
 # Changelog
 
+## v4.2 - 08-12-2020
+
+{% hint style="warning" %}
+**Note**: No changes in HTML version
+{% endhint %}
+
+* Angular 11+ support
+* Remove ng2-tosty and Add new modules ng-snotify
+* Bugfix: datatable
+
 ## v4.1 - 23-10-2020
 
 {% hint style="warning" %}

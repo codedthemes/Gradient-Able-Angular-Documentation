@@ -183,14 +183,14 @@ description: NPM plugins
     </tr>
     <tr>
       <td style="text-align:left">Notification</td>
-      <td style="text-align:left">ng2-toasty</td>
-      <td style="text-align:left"><a href="http://akserg.github.io/ng2-webpack-demo">http://akserg.github.io/ng2-webpack-demo</a>
+      <td style="text-align:left">ng-snotify</td>
+      <td style="text-align:left"><a href="https://www.npmjs.com/package/ng-snotify">https://www.npmjs.com/package/ng-snotify</a>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Form Validation</td>
-      <td style="text-align:left">ng2-validation</td>
-      <td style="text-align:left"><a href="https://www.npmjs.com/package/ng2-validation">https://www.npmjs.com/package/ng2-validation</a>
+      <td style="text-align:left">ngx-custom-validators</td>
+      <td style="text-align:left"><a href="https://www.npmjs.com/package/ngx-custom-validators">https://www.npmjs.com/package/ng2-validation</a>
       </td>
     </tr>
     <tr>
